@@ -4,4 +4,5 @@ test no ff merge.
 work is not finished.
 work is finished.
 i want to modify too.
-fetch test
+fetch test.
+remember the username and passowrd.
